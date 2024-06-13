@@ -1,8 +1,8 @@
 # Advancing-Air-Quality-Monitoring
-Project Overview
+# Project Overview
 This project aims to enhance air quality monitoring by leveraging advanced machine learning techniques to predict future trends, detect anomalies, and classify sensor data for improved sensor performance.
 
-Table of Contents
+# Table of Contents
 Executive Summary
 Background and Problem Statement
 Data Source and Methodologies
